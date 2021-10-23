@@ -1,0 +1,13 @@
+.imagem{
+    width: 40%;
+    height: 40%;
+    float: left;
+    margin-top: 100px;
+}
+
+h3{
+    color: violet;
+    font-size: 90px;
+    margin-top: 0;
+    padding-top: 150px;
+}
